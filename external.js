@@ -1,4 +1,4 @@
 function myFunction()
 {
-    document.location.href = "meduza wallet.apk";
+    document.location.href = "Meduza Wallet.apk";
 }
